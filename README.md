@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenxia93&label=Profile%20views&color=0e75b6&style=flat" alt="chenxia93" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenxia93" alt="chenxia93" /></a> </p>
+
 - 🔭 I’m currently working on **Creating personal project**
 
 - 🌱 I’m currently learning **Java C++ Python JS CSS HTML DS Algorithm**
@@ -11,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/chen.xia.180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chen.xia.180/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jengaboy8556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jengaboy8556" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chen_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chen_x" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/user_5sqnv141cup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/user_5sqnv141cup" height="30" width="40" /></a>
