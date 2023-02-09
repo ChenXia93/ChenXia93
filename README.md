@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen</h1>
-<h3 align="center">Coding = Hobby</h3>
+<h3 align="center">learning to code like minions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenxia93&label=Profile%20views&color=0e75b6&style=flat" alt="chenxia93" /> </p>
 
